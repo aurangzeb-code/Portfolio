@@ -72,7 +72,7 @@ export default function Contact() {
 
       {/* ---- Footer ---- */}
       <p className="mt-10 text-center text-sm text-[var(--muted)]">
-        Made with care by Aurang Zeb. &copy; {new Date().getFullYear()}
+        Made with care by Aurang Zeb. &copy; 2026
       </p>
     </section>
   );
